@@ -33,7 +33,3 @@ source venv/bin/activate  # macOS/Linux
 ### 3. Install Required Packages
 ```bash
 pip install -r requirements.txt
-
-
-
-
